@@ -1,5 +1,7 @@
 
-# couch-pwd [![Build Status](https://travis-ci.org/zemirco/couch-pwd.png)](https://travis-ci.org/zemirco/couch-pwd)
+# couch-pwd
+
+[![Build Status](https://travis-ci.org/zeMirco/couch-pwd.svg?branch=master)](https://travis-ci.org/zeMirco/couch-pwd)
 
 Hash and compare passwords with the crypto's pbkdf2.
 Heavily inspired by [node-pwd](https://github.com/visionmedia/node-pwd).
